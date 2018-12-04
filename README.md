@@ -6,6 +6,7 @@
 
 服务端输入下述命令即可启动服务器。
 > * python server.py
+
 客户端按照老师要求，可以输入以下两条命令发送文件或接受文件。	
 > * python client.py lsend ip mylargefile
 > * python client.py lget ip mylargefile

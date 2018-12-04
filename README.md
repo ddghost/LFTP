@@ -2,6 +2,7 @@
 使用方法如下。
 
 首先将4个文件《server.py》,《sender.py》，《receiver.py》，《dataSolver.py》这四个文件上传到服务端某个文件夹中.
+
 将4个文件《client.py》,《sender.py》，《receiver.py》，《dataSolver.py》放在自己的电脑的某个文件夹中。
 
 服务端输入下述命令即可启动服务器。

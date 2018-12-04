@@ -1,0 +1,2 @@
+python client.py lsend 120.77.172.46 1.mkv
+python client.py lsend 120.77.172.46 1.bmp
